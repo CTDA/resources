@@ -1,6 +1,6 @@
 # Resources
 The documents here are for participants of the Connecticut Digital Archive, CTDA. These documents cover material that isn't covered in the general guide created and maintained by the Islandora Foundation.
-The Islandora Foundation keeps a (current guide)[https://wiki.duraspace.org/display/ISLANDORA/Introduction] on their wiki space. This guide is reviewed frequently throughout the year and provides a wealth of information.
+The Islandora Foundation keeps a current guide[https://wiki.duraspace.org/display/ISLANDORA/Introduction] on their wiki space. This guide is reviewed frequently throughout the year and provides a wealth of information.
 
 The Welcome to the CTDA presentation (part 1 and part 2) covers:
 * Basic introduction to Fedora and Islandora
